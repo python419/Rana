@@ -8,7 +8,7 @@ import image from '@astrojs/image'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://william-portfolio.netlify.app',
+  site: 'https://williamchu-portfolio.netlify.app',
   integrations: [
     mdx(),
     sitemap(),
